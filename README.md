@@ -4,6 +4,9 @@ Number's Game makes the job search organized and systematic by allowing you to c
 
 Currently, there are no comprehensive web apps to help job seekers organize their job search.  Number's Game intends to solve this problem by being a place where a job seeker can search for jobs, save them, and keep track of job-related deadlines and interview information. The name “Number's Game” comes from the idea from sales, that consistently applying to a certain quantity of jobs will help you actually find one.  
 
+![alt tag](./screenshot.png "Number's Game")
+![alt tag](./screenshot2.png "Number's Game")
+
 ## Team
 
   - __Product Owner__: Michael Dziedzic
