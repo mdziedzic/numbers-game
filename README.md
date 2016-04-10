@@ -87,7 +87,3 @@ View the project roadmap [here](https://github.com/toadToadToadToadAndToad/numbe
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
-
-@git-commands
-git pull --rebase upstream master
-git pull --rebase upstream yourbranchhere
